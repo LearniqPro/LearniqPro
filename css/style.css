@@ -4436,6 +4436,8 @@ section:hover .section-title h2::before {
 .team-social li {
     display: inline;
     margin: 0 3px;
+	position: relative;
+    z-index: 5;
 }
 
 .team-thumb .dropdown-menu {
